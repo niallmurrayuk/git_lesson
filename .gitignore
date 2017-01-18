@@ -1,3 +1,4 @@
+# File types to be ignored by git
 *.class
 *.pdf
 *.log
